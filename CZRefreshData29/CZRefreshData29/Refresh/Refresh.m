@@ -20,4 +20,9 @@
     NSLog(@"停止刷新");
 }
 
+- (void)endRefresh
+{
+    NSLog(@"结束刷新");
+}
+
 @end
