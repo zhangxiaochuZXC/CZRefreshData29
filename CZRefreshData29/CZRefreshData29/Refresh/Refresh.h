@@ -12,4 +12,6 @@
 
 - (void)startRefresh;
 
+- (void)stopRefresh;
+
 @end

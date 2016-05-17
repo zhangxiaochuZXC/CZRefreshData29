@@ -15,4 +15,9 @@
     NSLog(@"开始刷新");
 }
 
+- (void)stopRefresh
+{
+    NSLog(@"停止刷新");
+}
+
 @end
